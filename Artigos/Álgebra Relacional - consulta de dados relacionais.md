@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/algebra-relacional?srsltid=AfmBOoqVXlnLT7ypuo5lGI25Gg7trpkN-VGQNpTD7zuw2hdiztrLjGzW
