@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/upskilling-reskilling?srsltid=AfmBOopg34dmna-ROLuQZtoJsa6IbTac_ZYSWTcfpdt8OR_tjZkytbIB

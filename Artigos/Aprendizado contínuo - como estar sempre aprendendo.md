@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/aprendizado-continuo-habito-aprender-mundo-mudancas?srsltid=AfmBOoqR9eft4Ty6Yd8Me04IjwRN1JjS2iJKAQllcexUQaxl9U8hN_qn

@@ -1,0 +1,1 @@
+Depende de [[Linux - gerenciando diretórios, arquivos, permissões e processos]]

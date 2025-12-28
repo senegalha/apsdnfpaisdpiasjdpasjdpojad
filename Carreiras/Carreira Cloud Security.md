@@ -1,0 +1,1 @@
+Carreira de Cloud Security da Alura: https://www.alura.com.br/carreiras/cloud-security

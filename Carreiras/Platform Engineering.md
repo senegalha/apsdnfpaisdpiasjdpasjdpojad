@@ -1,0 +1,1 @@
+Carreira de Platform Engineering da Alura: https://www.alura.com.br/carreiras/platform-engineering
