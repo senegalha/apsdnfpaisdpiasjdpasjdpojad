@@ -1,7 +1,9 @@
 Formações com esse curso:
-[[Java Reflection - simplifique a conversão de objetos]]
+[[Arquitetura Java - do design de código à infraestrutura]]
 
 Depende de:
+[[Redes - dos conceitos iniciais à criação de uma intranet]]
+[[Docker - criando e gerenciando containers]]
 [[Java - criando a sua primeira aplicação]]
 [[Java - aplicando a Orientação a Objetos]]
 [[Terminal - aprenda comandos para executar tarefas]]
@@ -12,6 +14,6 @@ Depende de:
 [[Spring Boot 3 - desenvolva uma API Rest em Java]]
 [[Spring Boot 3 - aplique boas práticas e proteja uma API Rest]]
 [[Spring Boot 3 - documente, teste e prepare uma API para o deploy]]
-[[Boas práticas de programação - automatizando testes com Java]]
-[[Java exceções - aprenda a criar, lançar e controlar exceções]]
-[[Maven - gerencie dependências e faça o build de aplicações Java]]
+[[Arquitetura Java - descomplicando a Clean Architecture]]
+[[Arquitetura Java - modelando aplicações com Domain-Driven Design]]
+[[Maven - gerencie dependências e faça o build de aplicações Java]] 

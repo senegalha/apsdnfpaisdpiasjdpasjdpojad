@@ -1,5 +1,8 @@
+Carreiras com esse curso:
+[[Carreira Back-End Java]]
+
 Formações com esse curso:
-[[Java Reflection - simplifique a conversão de objetos]]
+[[Java com Spring Security]]
 
 Depende de:
 [[Java - criando a sua primeira aplicação]]
@@ -12,6 +15,6 @@ Depende de:
 [[Spring Boot 3 - desenvolva uma API Rest em Java]]
 [[Spring Boot 3 - aplique boas práticas e proteja uma API Rest]]
 [[Spring Boot 3 - documente, teste e prepare uma API para o deploy]]
-[[Boas práticas de programação - automatizando testes com Java]]
-[[Java exceções - aprenda a criar, lançar e controlar exceções]]
 [[Maven - gerencie dependências e faça o build de aplicações Java]]
+[[Java e Spring Security - proteja suas aplicações web]]
+[[Java e Spring Security - crie perfis e autorize requisições]]

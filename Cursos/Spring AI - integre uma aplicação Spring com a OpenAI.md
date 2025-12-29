@@ -1,6 +1,3 @@
-Formações com esse curso:
-[[Java Reflection - simplifique a conversão de objetos]]
-
 Depende de:
 [[Java - criando a sua primeira aplicação]]
 [[Java - aplicando a Orientação a Objetos]]
@@ -10,8 +7,5 @@ Depende de:
 [[Java e JPA - consultas avançadas, performance e modelos complexos]]
 [[Java e refatoração - melhorando códigos com boas práticas]]
 [[Spring Boot 3 - desenvolva uma API Rest em Java]]
-[[Spring Boot 3 - aplique boas práticas e proteja uma API Rest]]
-[[Spring Boot 3 - documente, teste e prepare uma API para o deploy]]
-[[Boas práticas de programação - automatizando testes com Java]]
-[[Java exceções - aprenda a criar, lançar e controlar exceções]]
 [[Maven - gerencie dependências e faça o build de aplicações Java]]
+[[ChatGPT - desvendando a IA em conversas e suas aplicações]]
