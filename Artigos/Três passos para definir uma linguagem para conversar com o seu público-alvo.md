@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/tres-passos-para-definir-uma-linguagem-para-conversar-com-o-seu-publico-alvo?srsltid=AfmBOorALJ6sxnE-1rgxY2xysrfGHD00lqqBTkOiKqW6J8BWyUhhs12R

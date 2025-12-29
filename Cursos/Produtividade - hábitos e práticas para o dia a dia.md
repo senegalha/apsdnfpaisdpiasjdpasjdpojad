@@ -1,1 +1,1 @@
-Formações com esse curso: [[Produtividade]]
+Formações com esse curso: [[Alura/Formações/Produtividade]]

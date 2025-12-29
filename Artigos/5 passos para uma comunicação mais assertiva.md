@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/cinco-passos-para-uma-comunicacao-mais-assertiva?srsltid=AfmBOopJZ27DUPCwO42w9f9-QWWXu-DyhVHRJUPW3qGcV-Wold7YhH83

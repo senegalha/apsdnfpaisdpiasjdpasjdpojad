@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/tecnica-pomodoro?srsltid=AfmBOoqbpI-qAg576B1FGBvlbGajxee59izVky7DshurU4KX_SQ15B9D

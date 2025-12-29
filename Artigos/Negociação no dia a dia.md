@@ -1,0 +1,1 @@
+Link: https://site.alura.com.br/artigos/negociacao-no-dia-a-dia

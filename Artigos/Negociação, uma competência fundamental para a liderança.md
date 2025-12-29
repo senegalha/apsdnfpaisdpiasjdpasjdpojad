@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/empresas/artigos/negociacao-uma-competencia-fundamental-para-a-lideranca?utm_source=gnarus&utm_medium=timeline
