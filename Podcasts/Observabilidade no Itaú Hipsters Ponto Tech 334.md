@@ -1,0 +1,1 @@
+Link:  https://www.alura.com.br/podcast/observabilidade-no-itau-hipsters-ponto-tech-334-a1927

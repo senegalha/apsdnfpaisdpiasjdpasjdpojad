@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/9-ferramentas-que-vao-tornar-o-seu-trabalho-remoto-mais-produtivo?srsltid=AfmBOopcx2MNLr5x4p4WgcRQqUrCjz9xQv9gaLqIz8dIR983gHL7S8py

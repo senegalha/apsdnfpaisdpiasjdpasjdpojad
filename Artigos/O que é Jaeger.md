@@ -1,0 +1,1 @@
+Link: https://www.redhat.com/pt-br/topics/microservices/what-is-jaeger

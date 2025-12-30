@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/gestao-financeira-eficiente-diferenca-projeto-autonomo

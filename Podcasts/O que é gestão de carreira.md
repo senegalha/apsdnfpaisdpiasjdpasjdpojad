@@ -1,0 +1,1 @@
+Link: https://www.hipsters.tech/o-que-e-gestao-de-carreira/

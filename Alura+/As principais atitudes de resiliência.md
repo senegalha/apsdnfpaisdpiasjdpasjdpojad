@@ -1,0 +1,1 @@
+Link: https://cursos.alura.com.br/extra/alura-mais/as-principais-atitudes-de-resiliencia-c1167

@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/design-patterns-introducao-padroes-projeto
