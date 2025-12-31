@@ -1,0 +1,1 @@
+Link: https://cursos.alura.com.br/extra/alura-mais/ec2-automatizando-a-suspensao-de-maquinas-c1373

@@ -1,0 +1,1 @@
+Link: https://cursos.alura.com.br/extra/alura-mais/aws-s3-vantagens-do-servico-c1012

@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/cassandra-ou-mongodb-qual-a-melhor-escolha-para-o-meu-projeto

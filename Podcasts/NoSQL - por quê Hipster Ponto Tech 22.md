@@ -1,0 +1,1 @@
+Link: https://cursos.alura.com.br/extra/hipsterstech/nosql-por-que-hipsters-22-a564
