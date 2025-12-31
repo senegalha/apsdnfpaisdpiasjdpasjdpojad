@@ -1,0 +1,966 @@
+
+Concluído
+Curso
+Autoliderança: planejando o desenvolvimento pessoal
+
+Concluído
+Curso
+Aprender a aprender: técnicas para seu autodesenvolvimento
+
+Concluído
+Curso
+Técnicas de aprendizagem: construindo seu planejamento de estudos
+
+Concluído
+Artigo
+Como o Upskilling e Reskilling podem impulsionar sua carreira através da autoaprendizagem
+
+14%
+Curso
+Aprendizado contínuo: desenvolvendo o perfil de lifelong learner
+
+Concluído
+Artigo
+Aprendizado contínuo
+
+0%
+Curso
+Aprendizagem: personalizando sua rotina de estudos com ChatGPT
+
+0%
+Curso
+ChatGPT: desvendando a IA em conversas e suas aplicações
+
+Concluído
+Artigo
+Produtividade
+
+Concluído
+Artigo
+Aumente sua produtividade com inteligência artificial | Alura
+
+Concluído
+Artigo
+Mapa mental
+
+0%
+Curso
+Praticando mapas mentais com IA: estruture seu aprendizado
+
+Concluído
+Artigo
+Planejando meus estudos
+
+Artigo
+Trello
+
+Artigo
+Trabalho remoto
+
+0%
+Curso
+Hábitos: da produtividade às metas pessoais
+
+Concluído
+Artigo
+5 maneiras de te ajudar a criar hábitos melhores
+
+Concluído
+Curso
+Computador: sistemas, programas e dicas essenciais
+
+Concluído
+Curso
+Começando em Programação: carreira e primeiros passos
+
+Concluído
+Artigo
+5 dúvidas de quem quer iniciar na carreira de programação | Alura
+
+Concluído
+Curso
+Pensamento computacional: fundamentos da computação e lógica de programação
+
+13%
+Curso
+A prática do aprendizado
+
+0%
+Curso
+Lógica de programação: mergulhe em programação com JavaScript
+
+0%
+Curso
+Lógica de programação: explore funções e listas
+
+0%
+Curso
+Foco: trazendo mais resultados para o dia a dia
+
+Artigo
+Técnica Pomodoro
+
+Artigo
+O que é Git e Github
+
+0%
+Curso
+Git e GitHub: compartilhando e colaborando em projetos
+
+Artigo
+VSCode
+
+0%
+Curso
+Git e GitHub: dominando controle de versão de código
+
+Alura+
+O que é Back-End e Front-End
+
+0%
+Curso
+Lógica de programação: praticando com desafios
+
+Alura+
+Próximos passos e carreiras em tecnologia
+
+0%
+Curso
+Quality Assurance: plano de testes e gestão de bugs
+
+0%
+Curso
+Java: criando a sua primeira aplicação
+
+0%
+Curso
+Praticando Java: variáveis e tipos
+
+0%
+Curso
+Praticando Java: condicionais if e else
+
+0%
+Curso
+Praticando Java: laços for e while
+
+0%
+Curso
+Java: aplicando a Orientação a Objetos
+
+0%
+Curso
+Praticando Java: Orientação a Objetos com classes, atributos e métodos
+
+0%
+Curso
+Praticando Java: encapsulamento
+
+Concluído
+Curso Descontinuado
+UML: modelagem de soluções
+
+0%
+Curso
+Java: trabalhando com listas e coleções de dados
+
+0%
+Curso
+Praticando Java: coleções e streams
+
+Concluído
+Site
+https
+
+0%
+Curso
+Java Exceções: aprenda a criar, lançar e controlar exceções
+
+0%
+Curso
+Java: consumindo API, gravando arquivos e lidando com erros
+
+0%
+Curso
+Praticando Java: Strings e Regex
+
+0%
+Curso
+Expressões Regulares: faça buscas, validações e substituições de textos
+
+0%
+Curso
+Praticando Java: data e hora
+
+0%
+Curso
+Praticando Java: herança, polimorfismo e interfaces
+
+Concluído
+Artigo
+O que é e para que serve a modelagem de dados?
+
+0%
+Curso
+Modelagem de dados: identificando entidades, atributos, relacionamentos
+
+0%
+Curso
+Modelagem de dados: desenvolvendo o modelo lógico
+
+0%
+Curso
+Modelagem de dados: aplicando a normalização
+
+0%
+Curso
+Modelagem de dados: construindo o modelo físico
+
+Concluído
+Artigo
+MER e DER
+
+Concluído
+Artigo
+Normalização
+
+Artigo
+Álgebra Relacional
+
+0%
+Curso
+MySQL: conhecendo a ferramenta
+
+Concluído
+Curso
+PostgreSQL
+
+6%
+Curso
+PostgreSQL: Views, Sub-Consultas e Funções
+
+0%
+Curso
+PostgreSQL: comandos DML e DDL
+
+0%
+Curso
+PostgreSQL: desenvolva com PL/pgSQL
+
+0%
+Curso
+PostgreSQL: Triggers, transações, erros e cursores
+
+0%
+Curso
+PostgreSQL: administração e otimização do banco
+
+Artigo
+Diferenças entre modelo lógico e modelo físico
+
+Artigo
+Engenharia reversa com o Power Architect
+
+Artigo
+O que é e para que serve Data Catalog e Dicionário de Dados?
+
+Concluído
+Curso
+Linux: gerenciando diretórios, arquivos, permissões e processos
+
+2%
+Curso
+Linux Onboarding: localizando arquivos e conteúdos
+
+Concluído
+Curso
+Terminal: aprenda comandos para executar tarefas
+
+2%
+Curso
+Linux Onboarding: obtendo e tratando informações do sistema
+
+0%
+Curso
+Linux Onboarding: trabalhe com usuários, permissões e dispositivos
+
+0%
+Curso
+Redes: dos conceitos iniciais à criação de uma intranet
+
+0%
+Curso
+Redes onboarding: uma perspectiva prática
+
+0%
+Curso
+Cibersegurança: Fundamentos e práticas de redes
+
+0%
+Curso
+Produtividade: hábitos e práticas para o dia a dia
+
+0%
+Curso
+Produtividade parte 1: estratégias para o dia a dia
+
+0%
+Curso
+Produtividade parte 2: organização e prioridade
+
+0%
+Curso
+Princípios do trabalho em equipe: relações colaborativas
+
+Concluído
+Artigo
+Metodologia Ágil - O que é? | Alura
+
+0%
+Curso
+Equipes ágeis: organizando os papéis em uma equipe
+
+0%
+Curso
+Kanban: análises para implementação
+
+0%
+Curso
+Scrum: agilidade em seu projeto
+
+0%
+Curso
+Extreme Programming: metodologia de desenvolvimento ágil de software
+
+2%
+Curso
+Liderança pessoal: desenvolvendo habilidades de autogestão
+
+0%
+Curso
+Comunicação: como se expressar bem e ser compreendido
+
+0%
+Curso
+Comunicação não violenta: consciência para agir
+
+Alura+
+Comunicação Não Violenta
+
+0%
+Curso
+Comunicação não violenta parte 2: mantendo a empatia
+
+Artigo
+5 passos para uma comunicação mais assertiva
+
+0%
+Curso
+Feedback efetivo: utilizando ferramentas para comunicação transformadora
+
+Concluído
+Curso
+Redes e Protocolos: fundamentos da web
+
+39%
+Curso
+HTTP: entendendo a web por baixo dos panos
+
+0%
+Curso
+Java: trabalhando com lambdas, streams e Spring Framework
+
+0%
+Curso
+Java e refatoração: melhorando códigos com boas práticas
+
+0%
+Curso
+Java e JDBC: trabalhando com um banco de dados
+
+0%
+Curso
+Persistência com JPA: Hibernate
+
+0%
+Curso
+Java e JPA: consultas avançadas, performance e modelos complexos
+
+0%
+Curso
+Maven: gerencie dependências e faça o build de aplicações Java
+
+0%
+Curso
+Spring Boot 3: desenvolva uma API Rest em Java
+
+0%
+Curso
+Spring Boot 3: aplique boas práticas e proteja uma API Rest
+
+0%
+Curso
+Spring Boot 3: documente, teste e prepare uma API para o deploy
+
+0%
+Curso
+Spring AI: integre uma aplicação Spring com a OpenAI
+
+0%
+Curso
+Swagger: documentando suas APIs
+
+0%
+Curso
+Java: persistência de dados e consultas com Spring Data JPA
+
+0%
+Curso
+Java: criando sua primeira API e conectando ao front
+
+0/10
+Formação
+Angular: crie aplicações web ágeis
+
+0/5
+Formação
+Angular: cursos de testes automatizados para garantir a qualidade da sua aplicação
+
+0%
+Curso
+Boas práticas de programação: automatizando testes com Java
+
+0%
+Curso
+Testes de Integração em Java: Garantindo Qualidade em Back-ends Modernos
+
+0%
+Curso
+Segurança web em Java: evitando SQL Injection, força bruta e outros ataques
+
+0%
+Curso
+Segurança web em Java parte 2: XSS, Mass Assignment e Uploads de arquivos!
+
+19%
+Curso
+Cibersegurança: Fundamentos e práticas integradas
+
+0%
+Curso
+Java e Spring Security: proteja suas aplicações web
+
+0%
+Curso
+Java e Spring Security: crie perfis e autorize requisições
+
+0%
+Curso
+Java e Spring Security: proteja suas APIs REST
+
+0%
+Curso
+Java e Spring Security: login com GitHub, Google e autenticação de 2 fatores
+
+0%
+Curso
+AppSec: Fundamentos de segurança no desenvolvimento de software
+
+9%
+Curso
+Criptografia: Fundamentos, algoritmos e tecnologias emergentes
+
+0%
+Curso
+OWASP Top 10: Mitigando vulnerabilidades e protegendo aplicações
+
+0%
+Curso
+Segurança de APIs: práticas modernas com DevSecOps
+
+0%
+Curso
+Segurança em Aplicações Web: Proteção contra vulnerabilidades
+
+0%
+Curso
+Gerenciamento de Segredos: segurança, auditoria e automação com Vault
+
+0%
+Curso
+Java Reflection: simplifique a conversão de objetos
+
+0%
+Curso
+Boas práticas de programação: melhore o código de uma API Java
+
+Concluído
+Artigo
+Design Patterns
+
+0%
+Curso
+Inteligência emocional: práticas para o cotidiano
+
+Alura+
+Os 5 pilares da Inteligência Emocional
+
+0%
+Curso
+Java threads: aprenda a criar, gerenciar e aplicar com o Spring
+
+0%
+Curso
+Java e Gestão de Memória: crie aplicações performáticas e robustas
+
+0%
+Curso
+Síndrome do Impostor: reconheça seu sucesso e resultados
+
+Alura+
+As principais atitudes de resiliência
+
+Alura+
+Como desenvolver resiliência no trabalho
+
+Podcast
+Containers e Docker – Hipsters #75
+
+0%
+Curso
+Docker: criando e gerenciando containers
+
+14%
+Curso
+DevOps: explorando conceitos, comandos e scripts no Linux CLI
+
+0%
+Curso
+DevOps: trabalhando com tráfego seguro em comunicações web
+
+0%
+Curso
+DevOps: trabalhando com repositórios no GitHub
+
+0%
+Curso
+DevOps: construindo e gerindo containers com o Docker
+
+0%
+Curso
+Integração Contínua: pipelines e testes automatizados com GitHub Actions
+
+0%
+Curso
+Docker: construindo imagens para produção
+
+0%
+Curso
+Integração Contínua: Pipeline Docker no Github Actions
+
+0%
+Curso
+Docker Scout e Trivy: analisando e protegendo imagens e containers
+
+0%
+Curso
+GitHub Actions: integrando e entregando código com segurança
+
+0%
+Curso
+Segurança em Pipelines: Integrando práticas de segurança no CI/CD
+
+0%
+Curso
+Começando em Cloud: usando a AWS e explorando os recursos da nuvem como serviço
+
+0%
+Curso
+Cloud Onboarding: conhecendo os principais provedores parte 2
+
+0%
+Curso
+Amazon EC2: alta disponibilidade e escalabilidade em uma aplicação
+
+0%
+Curso
+Amazon ECS: gerencie Docker na nuvem da AWS
+
+0%
+Curso
+IAM: gestão de identidades e acessos em ambientes cloud
+
+0%
+Curso
+Redes: construindo um projeto com VLANs, políticas de acesso e conexão com internet
+
+Alura+
+O que é Infraestrutura como Código (IaC)?
+
+0%
+Curso
+Ansible: implementando sua infraestrutura como código
+
+0%
+Curso
+Infraestrutura como código: preparando máquinas na AWS com Ansible e Terraform
+
+0%
+Curso
+Computação em Nuvem: fundamentos, modelos e segurança
+
+0%
+Curso
+Segurança e monitoramento em nuvem: compliance, proteção e alertas
+
+0%
+Curso
+Segurança em nuvem com CSPM: Monitoramento e conformidade automatizados
+
+Artigo
+Negociação no dia a dia
+
+0%
+Curso
+Negociação parte 1: práticas essenciais
+
+0%
+Curso
+Integração Contínua: mais qualidade e menos risco no desenvolvimento
+
+0%
+Curso
+Entrega Contínua: confiabilidade e qualidade na implantação de software
+
+Podcast
+Integração Contínua, Deploy Contínuo e Github Actions – Hipsters #213
+
+0%
+Curso
+Integração Contínua: Pipeline de entrega e implementação contínua na EC2
+
+0%
+Curso
+Integração Contínua: automatize o deploy no Amazon ECS
+
+0%
+Curso
+Integração Contínua: Rollback e teste de carga
+
+0%
+Curso
+Negociação parte 2: técnicas avançadas
+
+0%
+Curso
+Negociações de sucesso: convencendo e fechando negócios com excelência
+
+0%
+Curso
+Oratória: conquiste a atenção do seu público
+
+0%
+Curso
+Oratória: supere desafios com confiança
+
+Concluído
+Artigo
+Padrões arquiteturais
+
+0%
+Curso
+Fundamentos da Arquitetura de Software Moderna
+
+0%
+Curso
+Arquitetura Java: descomplicando a Clean Architecture
+
+0%
+Curso
+Arquitetura Java: modelando aplicações com Domain-Driven Design
+
+0%
+Curso
+Arquitetura Java: crie uma infraestrutura escalável
+
+0%
+Curso
+Microsserviços: padrões de projeto
+
+0%
+Curso
+Microsserviços: explorando os conceitos
+
+0%
+Curso
+Microsserviços na prática: entendendo a tomada de decisões
+
+0%
+Curso
+Microsserviços na prática: implementando com Java e Spring
+
+0%
+Curso
+Microsserviços na prática: mensageria com RabbitMQ
+
+0%
+Curso
+Microsserviços na prática: IaC com CDK e deploy na AWS
+
+0%
+Curso
+Padrões de Integração em Sistemas Distribuídos
+
+Alura+
+Como falar de improviso
+
+Alura+
+Como ter energia na fala
+
+Alura+
+Controle do medo em apresentações
+
+Concluído
+Artigo
+Networking online
+
+0%
+Curso
+Networking: expanda sua rede de contatos
+
+0%
+Curso
+Kubernetes: Pods, Services e ConfigMaps
+
+0%
+Curso
+Kubernetes: Deployments, Volumes e Escalabilidade
+
+0%
+Curso
+Kubernetes: praticando e garantido uma aplicação com LivenessProbe
+
+0%
+Curso
+Kubernetes com microsserviços: subindo e gerenciando uma aplicação
+
+0%
+Curso
+Kubernetes: criando e gerenciando charts com o Helm
+
+0%
+Curso
+Kubernetes: garantindo e protegendo a aplicação com o Istio
+
+0%
+Curso
+Integração Contínua: automatizando a entrega no Kubernetes
+
+Artigo
+Quais as vantagens em saber usar o LinkedIn?
+
+0%
+Curso
+Personal Branding: como utilizar sua Marca Pessoal a favor da sua carreira
+
+0%
+Curso
+Comunicação assertiva: reduzindo conflitos e frustrações
+
+0%
+Curso
+Comunicação persuasiva: habilidades e estratégias para atrair clientes
+
+0%
+Curso
+Java e Spring: construindo aplicações reativas com WebFlux
+
+0%
+Curso
+Kafka: produtores, consumidores e streams
+
+0%
+Curso
+Kafka: Fast delegate, evolução e cluster de brokers
+
+0%
+Curso
+Kafka: Batches, correlation ids e dead letters
+
+0%
+Curso
+Kafka: idempotência e garantias
+
+0%
+Curso
+Kafka e Spring: integrando aplicações e gerenciando fluxos de dados
+
+0%
+Curso
+Java e Spring: Realizando processamento em lote com Spring Batch
+
+Alura+
+Como se apresentar no mundo virtual
+
+Artigo
+Três passos para definir uma linguagem para conversar com o seu público-alvo
+
+Alura+
+O que é Observabilidade?
+
+Alura+
+Monitorando aplicações: 4 Golden Signals
+
+Alura+
+SRE - Engenharia de Confiabilidade de Sites
+
+0%
+Curso
+SRE: entenda a confiabilidade dos sistemas
+
+Concluído
+Site
+O que é Jaeger?
+
+0%
+Curso
+Observabilidade: coletando métricas de uma aplicação com Prometheus
+
+0%
+Curso
+Monitoramento: Prometheus, Grafana e Alertmanager
+
+0%
+Curso
+Confiabilidade: garantindo o estado de integridade de sistemas através de logs
+
+0%
+Curso
+Confiabilidade: centralizando logs com Grafana Loki
+
+0%
+Curso
+Rastreamento: fazendo tracing com Jaeger e OpenTelemetry
+
+Podcast
+Observabilidade no Itaú – Hipsters Ponto Tech #334
+
+0%
+Curso
+Modelagem de ameaças: identifique riscos na concepção do software
+
+0%
+Curso
+Shift Left e DevOps: otimizando o ciclo de desenvolvimento de software
+
+0%
+Curso
+Ciclo de vida de aplicações: modelando, desenvolvendo e implantando um software
+
+0%
+Curso
+Ciclo de vida de aplicações: monitorando, atualizando e evoluindo um software
+
+0%
+Curso
+Comunicação estratégica na liderança: como engajar e influenciar pessoas
+
+0%
+Curso
+Comunicação participativa: liderança eficaz e motivadora
+
+0%
+Curso
+Liderança: aprendendo sobre a missão e propósito de liderar pessoas
+
+0%
+Curso
+Propósito profissional: seja protagonista da sua carreira
+
+0%
+Curso
+Desenvolvimento de carreira: a demanda do mercado
+
+0%
+Curso
+Desenvolvimento de carreira: como alcançar a posição desejada
+
+Concluído
+Site
+O que é gestão de carreira? - Hipsters Ponto TechHipsters Ponto Tech
+
+Concluído
+Artigo
+O planejamento como ferramenta de crescimento de negócio | Alura
+
+Concluído
+Artigo
+Habilidades técnicas e sociais no mercado de trabalho | Alura
+
+0%
+Curso
+Negociação para líderes: desenvolva a habilidade e consiga bons acordos
+
+Artigo
+Negociação, uma competência fundamental para a liderança | Alura
+
+0%
+Curso
+Back-ends Modernos em Java: Reatividade, Observabilidade e Performance
+
+0%
+Curso
+Freelancer de sucesso: construa uma carreira autônoma
+
+0%
+Curso
+Empreendedorismo para Devs: transformando ideias em negócios
+
+Concluído
+Artigo
+Como uma gestão financeira eficiente pode fazer a diferença no seu projeto autônomo | Alura
+
+0%
+Curso
+Gestão financeira: administre suas finanças na prática
+
+0%
+Curso
+Psicologia financeira: maximizando o potencial financeiro
+
+0%
+Curso
+Carreira internacional: descubra como conquistar sua oportunidade no exterior
+
+0%
+Curso
+Eficácia parte 1: hábitos para sua proatividade
+
+0%
+Curso
+Eficácia parte 2: hábitos para sua proatividade
+
+Podcast
+Produtividade – Hipsters #76
+
+0%
+Curso
+Relacionamento interpessoal parte 2: melhore seu potencial
+
+0%
+Curso
+Pontos fortes parte 1: descubra os seus e aprenda a gerenciá-los
+
+0%
+Curso
+Pontos fortes parte 2: habilidades e competências
+
+0%
+Curso
+Oratória para líderes: como se comunicar profissionalmente
+
+Alura+
+Liderança Influente \ Comunicadora
+
+Artigo
+Quais são os principais desafios de comunicação na liderança? | Alura

@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/criptografia-diferencas-simetrica-assimetrica-homomorfica

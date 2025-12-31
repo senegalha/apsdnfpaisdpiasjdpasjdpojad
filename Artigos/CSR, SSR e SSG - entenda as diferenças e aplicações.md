@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/csr-ssr-ssg?srsltid=AfmBOorYHdQa5kRM4dwe_qtU5BQo9xpuPWeO5MHf1Db2PJ1GT-W3GUfO

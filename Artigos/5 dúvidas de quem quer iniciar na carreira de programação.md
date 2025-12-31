@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/5-duvidas-de-quem-quer-iniciar-na-carreira-de-programacao

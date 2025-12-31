@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/dicas-essenciais-escrever-testes-end-to-end-melhores

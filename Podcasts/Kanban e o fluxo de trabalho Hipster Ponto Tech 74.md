@@ -1,0 +1,1 @@
+Link: https://cursos.alura.com.br/extra/hipsterstech/kanban-e-o-fluxo-de-trabalho-hipsters-74-a512

@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/agile-testing-o-que-e-qual-papel-qa-num-time-agil

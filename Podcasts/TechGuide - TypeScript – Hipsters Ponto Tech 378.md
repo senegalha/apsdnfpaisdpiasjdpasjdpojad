@@ -1,0 +1,1 @@
+Link: https://www.hipsters.tech/techguide-typescript-hipsters-ponto-tech-378/

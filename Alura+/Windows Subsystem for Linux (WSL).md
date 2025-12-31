@@ -1,0 +1,1 @@
+Link: https://cursos.alura.com.br/extra/alura-mais/windows-subsystem-for-linux-wsl--c238

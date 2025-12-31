@@ -1,0 +1,1 @@
+Link: https://www.hipsters.tech/evolucao-do-javascript-hipsters-ponto-tech-236/

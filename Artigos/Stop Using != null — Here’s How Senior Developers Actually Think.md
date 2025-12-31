@@ -1,0 +1,1 @@
+Link: https://medium.com/@anurag.ydv36/stop-using-null-heres-how-senior-developers-actually-think-e5ef86d9eb6e

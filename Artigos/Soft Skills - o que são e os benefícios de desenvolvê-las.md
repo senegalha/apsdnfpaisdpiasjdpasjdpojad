@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/soft-skills-o-que-sao-e-os-beneficios-de-desenvolve-las?srsltid=AfmBOoqFxK60jY5SxyWjKCnLX5pAGNMRNu-WyeS9ORQErojgrdSVGTUF

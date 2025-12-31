@@ -1,0 +1,1 @@
+Link:  https://cursos.alura.com.br/extra/hipsterstech/trello-jira-e-ferramentas-de-produtividade-hipsters-ponto-tech-239-a780

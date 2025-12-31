@@ -1,0 +1,1 @@
+Link: https://cursos.alura.com.br/extra/alura-mais/como-identificar-seus-pontos-fortes-c151

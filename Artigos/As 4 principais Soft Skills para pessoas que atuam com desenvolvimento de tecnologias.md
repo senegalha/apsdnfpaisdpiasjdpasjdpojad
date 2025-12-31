@@ -1,0 +1,1 @@
+Link: https://www.alura.com.br/artigos/4-principais-soft-skills-carreira-desenvolvimento-tecnologia?srsltid=AfmBOorSjuIITOLGHoAdnkP1pu_14R0r_Xw0rzxmimFRFagUoWWQjgyA

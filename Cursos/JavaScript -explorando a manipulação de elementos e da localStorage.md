@@ -1,0 +1,12 @@
+Depende de:
+[[HTML e CSS - ambientes de desenvolvimento, estrutura de arquivos e tags]]
+[[HTML e CSS - cabeçalho, footer e variáveis CSS]]
+[[JavaScript para Web - Crie páginas dinâmicas]]
+[[Praticando CSS - Grid e Flexbox]]
+[[JavaScript - manipulando elementos no DOM]]
+[[HTML e CSS - trabalhando com responsividade e publicação de projetos]]
+[[HTML e CSS - Classes, posicionamento e Flexbox]]
+[[HTML e CSS - responsividade com mobile-first]]
+[[HTML e CSS - praticando HTML-CSS]]
+[[Lógica de programação - mergulhe em programação com JavaScript]]
+[[Lógica de programação - explore funções e listas]]

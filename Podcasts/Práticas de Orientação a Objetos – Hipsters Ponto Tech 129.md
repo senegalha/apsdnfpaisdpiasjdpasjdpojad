@@ -1,0 +1,1 @@
+Link:  https://www.hipsters.tech/praticas-de-orientacao-a-objetos-hipsters-129/
